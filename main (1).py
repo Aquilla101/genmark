@@ -63,4 +63,4 @@ async def on_command_error(ctx, error):
         embedVar = discord.Embed(title=message, color=0xFF0000)
         await ctx.channel.send(embed=embedVar)
        
-client.run("OTMxNzg1NTQyMjEzOTg4NDIy.YeJe6Q.nb9rjynQvERVSib4Q48wMeCKw1c")
+client.run("OTMxNzg1NTQyMjEzOTg4NDIy.YeJe6Q.98LBgqR9G2o3MfPgMVd1WE_DQWc")
